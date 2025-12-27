@@ -1,0 +1,4 @@
+Reminder:
+- Learn Python
+- Practice daily
+- Build automation scripts

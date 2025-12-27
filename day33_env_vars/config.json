@@ -1,0 +1,7 @@
+{
+  "input_dir": "input",
+  "backups_dir": "backups",
+  "zips_dir": "zips",
+  "logs_dir": "logs",
+  "enable_zip": false
+}

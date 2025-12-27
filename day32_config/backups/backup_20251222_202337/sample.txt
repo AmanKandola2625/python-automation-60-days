@@ -1,0 +1,2 @@
+This is a sample file.
+It is used for Day 30 backup testing.
