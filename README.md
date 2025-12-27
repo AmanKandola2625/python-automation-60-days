@@ -1,19 +1,16 @@
-# Python Automation – 60 Days
+# Python Automation – 60 Days (Focused Track)
 
-This repository contains daily Python automation exercises completed as part of a 60-day structured learning plan.
+This repository contains Python automation exercises starting from Day 29 of a 60-day structured learning plan.
 
-## Topics Covered
-- File operations & backups
-- Logging & timestamps
+## Focus Areas
+- File system automation
+- Backups and archiving
 - Configuration-driven scripts
-- Environment variables & secrets
+- Environment variables and secrets
 - Virtual environments
-- REST APIs & authentication
-- Pagination & rate limits
-
-## Structure
-Each folder represents one day of exercises.
+- REST APIs and authentication
+- Pagination and rate limits
 
 ## Notes
-- Secrets are stored using environment variables
-- Virtual environments are excluded
+- Virtual environments and logs are excluded
+- Secrets are managed via environment variables
