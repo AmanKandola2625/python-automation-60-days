@@ -1,12 +1,29 @@
+# --- Python ---
 __pycache__/
 *.pyc
-logs/
-*.log
-backups/
-zips/
-*.zip
+*.pyo
+*.pyd
+
+# --- Virtual environments ---
 venv/
 .venv/
+
+# --- Logs ---
+logs/
+*.log
+
+# --- Generated artifacts / outputs ---
+backups/
+zips/
+unzipped_folder/
+output/
+processed/
+*.zip
+
+# --- Secrets ---
 .env
 *.env
-unzipped_folder/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
